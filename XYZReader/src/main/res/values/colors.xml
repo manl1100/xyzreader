@@ -28,4 +28,8 @@
     <color name="deep_orange_500">#FF5722</color>
 
     <color name="black">#000000</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="grey_100">#F5F5F5</color>
 </resources>
